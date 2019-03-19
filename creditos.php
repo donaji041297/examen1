@@ -1,6 +1,6 @@
 <html>
-<title> CREDITOS <title>
 <head>
+<title> CREDITOS <title>
 </head>
 <body>
 <div align="center"> CREDITOS 
