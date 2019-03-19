@@ -2,7 +2,8 @@
 <title> Examen 1 </title>
 <head> </head>
 <body background="EEB0E6">
-<p> Este sitio es mi Examen </p>
+<p> HOLA Soy Donaji Hernandez Galicia </br>
+Este sitio es mi Examen </p>
 </br> </br>
 <p> Me gusta la Sandia y cantar en ingles </p>
 <p> Mis vacaciones favoritas han sido a Orlando </p>
